@@ -1,6 +1,8 @@
 # ALURA - IMERSÃO DADOS_
  Desafios da ImersaoDados_
 
+ [![author](https://img.shields.io/badge/author-lucasllimati-red.svg)](https://www.linkedin.com/in/lucasllimati/)
+
 ## 🎮 Projetos
 **Projetos** - Acesse os projetos [Link](https://colab.research.google.com/drive/1GEEat1IEVEbnNBmmH7JdGA0CTCkxFcPB?usp=sharing).
 
