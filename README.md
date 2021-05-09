@@ -32,7 +32,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👏 Agradecimento
 
-Agradeço a [Alura](https://www.alura.com.br/) por esse aprendizado nos últimos dias, e também aos instrutores.
+Agradeço a [Alura](https://www.alura.com.br/) por esse aprendizado nos últimos dias, aos instrutores e toda a comunidade.
 
 #### Thiago G. Santos
 Coordenador de Machine Learning e Data Science na Alura.
